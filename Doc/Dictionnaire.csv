@@ -1,0 +1,222 @@
+variables,questions,type,X,bloc,pct_NA
+id,ID de la réponse,c,,1,0
+submitdate,Date de soumission,T,,1,17.655172413793103
+lastpage,Dernière page,d,,1,0
+startdate,Date de lancement,T,,1,0
+datestamp,Date de la dernière action,T,,1,0
+consent,Les questions qui suivent portent sur des données personnelles de l'ordre des convictions et des pratiques politiques. Acceptez-vous d'y répondre ?,c,Oui,1,0
+genre,Quel est votre genre ?,c,Autre|Femme|Homme,2,0
+genre_autre,Quel est votre genre ? [Autre],c,,2,99.0084985835694
+naiss,Quelle est votre année de naissance ?,d,,2,0
+dipl,Quel est le diplôme le plus élevé que vous avez obtenu ?,c,"Baccalauréat|BEP/CAP ou équivalent|BEPC ou équivalent|DEUG, BTS, DUT, DEUST|Doctorat, HDR|Licence/licence professionnelle|Maîtrise/Master 1|Master et assimilé|Sans diplôme",2,0
+etabens_prim,Quel type d’établissement scolaire avez-vous fréquenté ?  [Enseignement primaire],c,Établissement privé confessionnel|Établissement privé non-confessionnel|Établissement public,2,2.26628895184136
+etabens_second,Quel type d’établissement scolaire avez-vous fréquenté ?  [Enseignement secondaire],c,Établissement privé confessionnel|Établissement privé non-confessionnel|Établissement public,2,3.5410764872521248
+etabens_sup,Quel type d’établissement scolaire avez-vous fréquenté ?  [Enseignement supérieur],c,Établissement privé confessionnel|Établissement privé non-confessionnel|Établissement public,2,18.13031161473088
+univ,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [Université ],c,Non|Oui,2,4.3180619322066995
+med,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [Université de médecine],c,Non|Oui,2,4.3180619322066995
+iut,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [IUT],c,Non|Oui,2,4.3180619322066995
+bts,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [BTS],c,Non|Oui,2,4.3180619322066995
+cpge,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [Classes préparatoires aux grandes écoles],c,Non|Oui,2,4.3180619322066995
+inge,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [École d’ingénieur ou de commerce],c,Non|Oui,2,4.3180619322066995
+ens,Quel type d’établissement d’enseignement supérieur avez-vous fréquenté ?  [Une des ENS],c,Non|Oui,2,4.3180619322066995
+arretact,"En quelle année avez-vous cessé votre dernière activité professionnelle, si vous en avez eu une ?",d,,2,73.51274787535411
+sect,Exercez-vous (ou avez-vous exercé si retraité-e) dans...,c,L’économie mixte (entreprise dans laquelle l’État et/ou les collectivités ont une participation)|Le secteur associatif|Le secteur privé|Le secteur public,2,1.6836963954283473
+chgtentreprise,Avez-vous changé d'entreprise durant votre vie professionnelle ?,c,Non|Oui,2,4.941486763700302
+licencie,Êtes-ce du fait d'un licenciement ?,c,Non|Oui,2,39.093484419263454
+pcs_pere,Quelle est/était la catégorie socio-professionnelle des personnes qui suivent ? [Votre père],c,"Agriculteur-rice|Artisan, commerçant-e, chef d’entreprise|Employé-e|Profession libérale|Cadre|Professeur-e, profession scientifique|Professeur-e des écoles, instituteur-rice et assimilé|Autres professions intermédiaires|Ouvrier-ère|Étudiant-e|Chômeur-euse|Autre inactif-ve",2,1.6997167138810199
+pcs_mere,Quelle est/était la catégorie socio-professionnelle des personnes qui suivent ? [Votre mère],c,"Agriculteur-rice|Artisan, commerçant-e, chef d’entreprise|Employé-e|Profession libérale|Cadre|Professeur-e, profession scientifique|Professeur-e des écoles, instituteur-rice et assimilé|Autres professions intermédiaires|Ouvrier-ère|Étudiant-e|Chômeur-euse|Autre inactif-ve",2,1.841359773371105
+pcs_par2,Quelle est/était la catégorie socio-professionnelle des personnes qui suivent ? [Votre deuxième parent],c,"Agriculteur-rice|Artisan, commerçant-e, chef d’entreprise|Employé-e|Profession libérale|Cadre|Professeur-e, profession scientifique|Professeur-e des écoles, instituteur-rice et assimilé|Autres professions intermédiaires|Ouvrier-ère|Étudiant-e|Chômeur-euse|Autre inactif-ve",2,99.85835694050992
+pcs_conj,Quelle est/était la catégorie socio-professionnelle des personnes qui suivent ? [Votre conjoint-e],c,"Agriculteur-rice|Artisan, commerçant-e, chef d’entreprise|Employé-e|Profession libérale|Cadre|Professeur-e, profession scientifique|Professeur-e des écoles, instituteur-rice et assimilé|Autres professions intermédiaires|Ouvrier-ère|Étudiant-e|Chômeur-euse|Autre inactif-ve",2,35.977337110481585
+dipl_pere,Quel est le diplôme le plus élevé obtenu par les personnes qui suivent ?  [Votre père],c,"Baccalauréat|BEP/CAP ou équivalent|BEPC ou équivalent|DEUG, BTS, DUT, DEUST|Doctorat, HDR|Licence/licence professionnelle|Maîtrise/Master 1|Master et assimilé|Sans diplôme",2,4.390934844192635
+dipl_mere,Quel est le diplôme le plus élevé obtenu par les personnes qui suivent ?  [Votre mère],c,"Baccalauréat|BEP/CAP ou équivalent|BEPC ou équivalent|DEUG, BTS, DUT, DEUST|Doctorat, HDR|Licence/licence professionnelle|Maîtrise/Master 1|Master et assimilé|Sans diplôme",2,4.2492917847025495
+dipl_conj,Quel est le diplôme le plus élevé obtenu par les personnes qui suivent ?  [Votre conjoint-e],c,"Baccalauréat|BEP/CAP ou équivalent|BEPC ou équivalent|DEUG, BTS, DUT, DEUST|Doctorat, HDR|Licence/licence professionnelle|Maîtrise/Master 1|Master et assimilé|Sans diplôme",2,38.38526912181303
+dept,Dans quel département habitez-vous ?,c,01 Ain|02 Aisne|03 Allier|04 Alpes-de-Haute-Provence|05 Hautes-Alpes|06 Alpes-Maritimes|07 Ardèche|08 Ardennes|09 Ariège|10 Aube|11 Aude|12 Aveyron|13 Bouches-du-Rhône|14 Calvados|15 Cantal|17 Charente-Maritime|18 Cher|19 Corrèze|21 Côte-d'Or|22 Côtes d'Armor|24 Dordogne|25 Doubs|26 Drôme|28 Eure-et-Loir|29 Finistère|30 Gard|31 Haute-Garonne|32 Gers|33 Gironde|34 Hérault|35 Ille-et-Vilaine|36 Indre|37 Indre-et-Loire|38 Isère|39 Jura|40 Landes|42 Loire|44 Loire-Atlantique|45 Loiret|46 Lot|49 Maine-et-Loire|52 Haute-Marne|53 Mayenne|54 Meurthe-et-Moselle|56 Morbihan|57 Moselle|58 Nièvre|59 Nord|60 Oise|61 Orne|62 Pas-de-Calais|63 Puy-de-Dôme|64 Pyrénées-Atlantiques|65 Hautes-Pyrénées|66 Pyrénées-Orientales|67 Bas-Rhin|68 Haut-Rhin|69 Rhône|70 Haute-Saône|71 Saône-et-Loire|74 Haute-Savoie|75 Paris|76 Seine-Maritime|77 Seine-et-Marne|78 Yvelines|79 Deux-Sèvres|80 Somme|81 Tarn|82 Tarn-et-Garonne|84 Vaucluse|85 Vendée|86 Vienne|87 Haute-Vienne|88 Vosges|91 Essonne|92 Hauts-de-Seine|93 Seine-St-Denis|94 Val-de-Marne|95 Val-D'Oise|971 Guadeloupe|974 La Réunion|99 Étranger,2,1.4164305949008498
+ville,Habitez-vous...,c,Dans une grande ville ou sa périphérie|Dans une ville moyenne ou petite ville|Dans une zone rurale,2,0.8498583569405099
+statut,Quel est (ou était si retraité-e) votre statut d'emploi ?,c,CDD|CDI|Fonctionnaire|Intérim/extra|Non concerné|Temps partiel,2,2.5335547523688575
+parlpol,"Lorsque vous étiez enfant, à la maison, parlait-on de politique… ",c,De temps en temps|Fréquemment|Jamais|Rarement,3,0.2976190476190476
+parolejeune,"À l’école, étiez-vous à l’aise avec la prise de parole en public ?",c,Non|Oui,3,5.357142857142857
+echpol,"Sur une échelle de 1 à 7, 1 étant l’extrême gauche et 7 l’extrême droite, où vous situeriez vous ainsi que votre famille ?  [Vous]",c,1 (ext. gauche)|2|3|4|5|6|7 (ext. droite),3,2.0833333333333335
+echpol_pere,"Sur une échelle de 1 à 7, 1 étant l’extrême gauche et 7 l’extrême droite, où vous situeriez vous ainsi que votre famille ?  [Votre père]",c,1 (ext. gauche)|2|3|4|5|6|7 (ext. droite),3,9.077380952380953
+echpol_mere,"Sur une échelle de 1 à 7, 1 étant l’extrême gauche et 7 l’extrême droite, où vous situeriez vous ainsi que votre famille ?  [Votre mère]",c,1 (ext. gauche)|2|3|4|5|6|7 (ext. droite),3,10.863095238095237
+echpol_par2,"Sur une échelle de 1 à 7, 1 étant l’extrême gauche et 7 l’extrême droite, où vous situeriez vous ainsi que votre famille ?  [Votre deuxième parent]",c,1 (ext. gauche)|2|3|4|5|6|7 (ext. droite),3,99.85119047619048
+echpol_conj,"Sur une échelle de 1 à 7, 1 étant l’extrême gauche et 7 l’extrême droite, où vous situeriez vous ainsi que votre famille ?  [Votre conjoint-e]",c,1 (ext. gauche)|2|3|4|5|6|7 (ext. droite),3,39.13690476190476
+parti_pere,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre père][Dans un parti],c,Non|NSP|Oui,3,1.6369047619047619
+synd_pere,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre père][Dans un syndicat],c,Non|NSP|Oui,3,1.6369047619047619
+asso_pere,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre père][Dans une ou plusieurs associations],c,Non|NSP|Oui,3,1.6369047619047619
+parti_mere,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre mère][Dans un parti],c,Non|NSP|Oui,3,1.9345238095238095
+synd_mere,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre mère][Dans un syndicat],c,Non|NSP|Oui,3,1.9345238095238095
+asso_mere,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre mère][Dans une ou plusieurs associations],c,Non|NSP|Oui,3,1.9345238095238095
+parti_conj,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre conjoint-e][Dans un parti],c,Non|NSP|Oui,3,35.267857142857146
+synd_conj,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre conjoint-e][Dans un syndicat],c,Non|NSP|Oui,3,35.267857142857146
+asso_conj,Ces membres de votre famille sont-ils (ou ont-ils été) engagés…  [Votre conjoint-e][Dans une ou plusieurs associations],c,Non|NSP|Oui,3,35.267857142857146
+relig_pere,"Lorsque vous étiez enfant, vos parents étaient-ils…  [Votre père]",c,Croyant-e et non-pratiquant-e d’une religion|Croyant-e et pratiquant-e d’une religion|Non croyant-e,3,6.5476190476190474
+relig_mere,"Lorsque vous étiez enfant, vos parents étaient-ils…  [Votre mère]",c,Croyant-e et non-pratiquant-e d’une religion|Croyant-e et pratiquant-e d’une religion|Non croyant-e,3,5.357142857142857
+relig_par2,"Lorsque vous étiez enfant, vos parents étaient-ils…  [Votre deuxième parent]",c,Croyant-e et pratiquant-e d’une religion,3,99.85119047619048
+messe,"Lorsque vous étiez enfant participiez-vous à des activités religieuses en famille (prière, sacrement, fête religieuse etc.) ?",c,De temps en temps|Fréquemment|Jamais|Rarement,3,1.0416666666666667
+amis_lfi,Vos ami-e-s sont-iels engagé-e-s...? [À la FI],c,Non|Oui,3,0
+amis_gauche,"Vos ami-e-s sont-iels engagé-e-s...? [Dans une autre organisation à la gauche de la gauche (PCF, NPA...)]",c,Non|Oui,3,0
+amis_droite,"Vos ami-e-s sont-iels engagé-e-s...? [Dans un parti à la droite de la FI (PS, LREM...)]",c,Non|Oui,3,0
+amis_synd,Vos ami-e-s sont-iels engagé-e-s...? [Dans un syndicat],c,Non|Oui,3,0
+amis_abseng,Vos ami-e-s sont-iels engagé-e-s...? [Aucun n'est engagé politiquement],c,Non|Oui,3,0
+amis_autre,Vos ami-e-s sont-iels engagé-e-s...? [Autre],c,,3,86.45833333333333
+camarades,Quel(s) rapport(s) entretenez-vous avec vos camarades de groupe insoumis ?,c,,3,17.55952380952381
+autresmili,Quel rapport entretenez-vous avec les militant-e-s d'autres organisations ? Vous pouvez donner plus de détails si vous le souhaitez.,c,"On ne se fréquente pas|On se fréquente occasionnellement aux rendez-vous militants (manifestations, tractages...) mais sans plus|On se fréquente souvent pour planifier des actions en commun",3,8.333333333333334
+autresmili_comment,Quel rapport entretenez-vous avec les militant-e-s d'autres organisations ? Vous pouvez donner plus de détails si vous le souhaitez. [Commentaire],c,,3,76.19047619047619
+agepol,À quel âge vous êtes-vous intéressé-e pour la première fois à la politique ?,d,,4,1.2269938650306749
+sujetpol,Quel est le sujet qui vous a fait vous y intéresser plus que les autres ?,c,Autre|Un autre événement marquant|Un mouvement social|Une élection ou référendum|Une question idéologique,4,55.061349693251536
+sujetpol_autre,Quel est le sujet qui vous a fait vous y intéresser plus que les autres ?  [Autre],c,,4,84.96932515337423
+sujetpol_evnmt,Lequel ?,c,,4,93.71165644171779
+sujetpol_ideo,Laquelle ?,c,Les institutions (Recodage)|Les questions d’inégalités économiques|Les questions écologiques|Pas de préférence (Recodage),4,98.00613496932516
+sujetpol_ideo_autre,Laquelle ? [Autre],c,,4,96.16564417177914
+engageparti,Avez-vous déjà été engagé-e dans…   [Un parti],c,Non|Oui,4,0
+engagesynd,Avez-vous déjà été engagé-e dans…   [Un syndicat],c,Non|Oui,4,0
+engagecoll,Avez-vous déjà été engagé-e dans…   [Un collectif (de luttes par exemple)],c,Non|Oui,4,0
+engageasso,Avez-vous déjà été engagé-e dans…   [Une association],c,Non|Oui,4,0
+quelparti,Dans quel(s) parti(s) avez-vous été engagé-e ?,c,,4,46.93251533742331
+responsparti,Y avez-vous eu des responsabilités ? Précisez le cas échéant,c,Non|Oui,4,46.31901840490798
+responsparti_comment,Y avez-vous eu des responsabilités ? Précisez le cas échéant [Commentaire],c,,4,76.38036809815951
+quelsynd,Dans quel(s) syndicat(s) avez-vous été engagé-e ?,c,,4,49.5398773006135
+responssynd,Y avez-vous eu des responsabilités ? Précisez le cas échéant.,c,Non|Oui,4,49.079754601226995
+responssynd_comment,Y avez-vous eu des responsabilités ? Précisez le cas échéant.  [Commentaire],c,,4,76.84049079754601
+anneelfi,En quelle année avez-vous commencé à militer auprès de la France insoumise ?,d,,4,4.447852760736196
+agepetition,À quel âge avez-vous signé une pétition pour la première fois ?,d,,4,5.061349693251533
+agemanif,À quel âge avez-vous participé à une manifestation pour la première fois ?,d,,4,1.8404907975460123
+accompmanif_amis,"Lors de cette première manifestation, y êtes-vous allé-e…  [Avec des amis]",c,Non|Non concerné|Oui,4,11.349693251533742
+accompmanif_fam,"Lors de cette première manifestation, y êtes-vous allé-e…  [Avec votre famille]",c,Non|Non concerné|Oui,4,11.349693251533742
+accompmanif_parti,"Lors de cette première manifestation, y êtes-vous allé-e…  [Avec votre parti]",c,Non|Non concerné|Oui,4,11.349693251533742
+accompmanif_synd,"Lors de cette première manifestation, y êtes-vous allé-e…  [Avec votre syndicat]",c,Non|Non concerné|Oui,4,11.349693251533742
+accompmanif_coll,"Lors de cette première manifestation, y êtes-vous allé-e…  [Avec votre collectif]",c,Non|Non concerné|Oui,4,11.349693251533742
+accompmanif_lfi,"Lors de cette première manifestation, y êtes-vous allé-e…  [Avec la France Insoumise]",c,Non|Non concerné|Oui,4,92.33128834355828
+accompmanif_seul,"Lors de cette première manifestation, y êtes-vous allé-e…  [Seul-e]",c,Non|Non concerné|Oui,4,1.8404907975460123
+vote_presid,"Avant votre engagement à la France Insoumise, vous avez voté…  [À l'élection présidentielle]",c,Non|Oui,4,7.822085889570552
+vote_legis,"Avant votre engagement à la France Insoumise, vous avez voté…  [Aux élections législatives]",c,Non|Oui,4,7.822085889570552
+vote_region,"Avant votre engagement à la France Insoumise, vous avez voté…  [Aux élections régionales et départementales]",c,Non|Oui,4,7.822085889570552
+vote_ue,"Avant votre engagement à la France Insoumise, vous avez voté…  [Aux élections européennes]",c,Non|Oui,4,7.822085889570552
+vote_munic,"Avant votre engagement à la France Insoumise, vous avez voté…  [Aux élections municipales]",c,Non|Oui,4,7.822085889570552
+eluavant,Avez-vous eu un mandat électif politique avant votre engagement à la FI ? ,c,Non|Oui,4,10.429447852760736
+presid1,Pour qui avez-vous voté au premier tour des élections présidentielles de 2017 ?,c,"Abstention|Benoît HAMON,|Emmanuel MACRON,|François ASSELINEAU,|Jean-Luc MÉLENCHON,|Marine LE PEN,|Philippe POUTOU,|Vote blanc",4,7.208588957055214
+presid2,Pour qui avez-vous voté au second tour des élections présidentielles de 2017 ?,c,Abstention|Emmanuel MACRON|Marine LE PEN|Vote blanc,4,7.975460122699387
+engagelfi_jlm,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La personnalité de Jean-Luc Mélenchon],c,Assez important|Pas important du tout|Peu important|Très important,5,2.5974025974025974
+engagelfi_gauche,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté d’être engagé vraiment à gauche],c,Assez important|Pas important du tout|Peu important|Très important,5,3.7337662337662336
+engagelfi_election,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté de voir la gauche gagner les élections],c,Assez important|Pas important du tout|Peu important|Très important,5,4.220779220779221
+engagelfi_droits,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté de lutter pour vos droits],c,Assez important|Pas important du tout|Peu important|Très important,5,4.058441558441558
+engagelfi_carriere,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté de pouvoir vivre de votre engagement politique],c,Assez important|Pas important du tout|Peu important|Très important,5,6.98051948051948
+engagelfi_fam,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La poursuite de la tradition politique de votre famille],c,Assez important|Pas important du tout|Peu important|Très important,5,10.227272727272727
+engagelfi_rencontre,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La rencontre de personnes ayant des points communs avec vous],c,Assez important|Pas important du tout|Peu important|Très important,5,4.707792207792208
+engagelfi_souple,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ Le fait que l’organisation soit plus souple qu’un parti],c,Assez important|Pas important du tout|Peu important|Très important,5,5.357142857142857
+engagelfi_prox,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [La proximité du groupe insoumis de mon lieu de vie],c,Assez important|Pas important du tout|Peu important|Très important,5,7.305194805194805
+typemilitant,Considérez-vous que vous êtes...,c,Militant actif|Militant cadre|Militant épisodique|Sympathisant,5,1.4610389610389611
+freqreu,Votre groupe se réunit-il pour une réunion...,c,Moins d'une fois par mois|Pas dans un groupe|Plus d'une fois par semaine|Une fois par mois|Une fois par semaine|Une fois toutes les deux semaines,5,6.6558441558441555
+freqparticipereu,À quelle fréquence assistez-vous aux réunions de votre groupe d’action ?,c,À peu de réunions|À presque aucune réunion|À presque toutes les réunions|À toutes les réunions|Pas dans un groupe,5,-5.718763994626062
+redac_tractfi,Avez-vous eu l’occasion de participer à la rédaction...  [ De tracts pour la FI],c,Jamais|Quelques fois|Rarement|Souvent,5,5.032467532467533
+redac_tractparti,Avez-vous eu l’occasion de participer à la rédaction...  [ De tracts pour votre parti ou syndicat],c,Jamais|Non concerné|Quelques fois|Rarement|Souvent,5,4.707792207792208
+redac_communique,Avez-vous eu l’occasion de participer à la rédaction...  [ De communiqués ],c,Jamais|Quelques fois|Rarement|Souvent,5,5.357142857142857
+redac_articlefi,"Avez-vous eu l’occasion de participer à la rédaction...  [ D’articles pour un média de la FI (L’insoumission, L’Heure du Peuple…)]",c,Jamais|Quelques fois|Rarement|Souvent,5,6.98051948051948
+redac_articlega,Avez-vous eu l’occasion de participer à la rédaction...  [ D’articles pour le site ou page de votre groupe d’action],c,Jamais|Quelques fois|Rarement|Souvent,5,7.305194805194805
+redac_articlepartisynd,Avez-vous eu l’occasion de participer à la rédaction...  [ D’articles pour votre parti ou syndicat],c,Jamais|Non concerné|Quelques fois|Rarement|Souvent,5,6.0064935064935066
+redac_articleperso,Avez-vous eu l’occasion de participer à la rédaction...  [ D’articles pour votre blog personnel],c,Jamais|Quelques fois|Rarement|Souvent,5,17.045454545454547
+redac_aec,Avez-vous eu l’occasion de participer à la rédaction...  [ Des livrets de l’avenir en commun],c,Jamais|Quelques fois|Rarement|Souvent,5,9.415584415584416
+redac_atelierloi,Avez-vous eu l’occasion de participer à la rédaction...  [ Des textes des ateliers des lois de la FI],c,Jamais|Quelques fois|Rarement|Souvent,5,9.090909090909092
+publifi,"Lisez-vous les publications de la FI (communiqués, articles) ?",c,Lit parfois|Lit régulièrement|Ne lit jamais,5,0.6493506493506493
+actufirs,"Suivez-vous les actualités de la FI sur les réseaux sociaux (Facebook, Twitter, Discord, YouTube) ?",c,Lit parfois|Lit régulièrement|Ne lit jamais,5,1.4610389610389611
+groupefb,"Êtes-vous membre de groupes de discussion entre insoumis (Facebook, Discord, Whatsapp...) ? ",c,Non|Oui,5,2.1103896103896105
+participgroupefb,Comment y prenez-vous part ?,c,Débat|Non concerné|Participe pas|Propose,5,3.0844155844155843
+conventionfi,"Avez-vous déjà participé à une convention de la FI, à une assemblée représentative ou à l’Agora ?",c,Non|Oui,5,2.1103896103896105
+debatconvention,Étiez-vous satisfait-e des débats qui y ont eu lieu ?,c,Assez satisfait-e|Non concerné|Pas satisfait-e|Peu satisfait-e|Très satisfait-e,5,2.435064935064935
+amfis,Avez-vous déjà participé aux AMFiS ?,c,Non|Oui,5,2.5974025974025974
+nbamfis,Combien de fois ?,c,1|2|3|4|Non concerné,5,3.0844155844155843
+intervamfis,Est-ce arrivé que cela soit en tant qu’intervenant ?,c,Non|Non concerné|Oui,5,5.032467532467533
+freqtract_election,À quelle fréquence faites-vous des tractages et/ou des collages ?  [ En période électorale],c,Jamais|Quelques fois|Rarement|Souvent,5,3.409090909090909
+freqtract_paselection,À quelle fréquence faites-vous des tractages et/ou des collages ?  [ Hors période électorale],c,Jamais|Quelques fois|Rarement|Souvent,5,4.707792207792208
+freqmanif,À quelle fréquence participez-vous à des manifestions ou rassemblements ?,c,Jamais|Quelques fois|Rarement|Souvent,5,2.1103896103896105
+maniflfi,Est-ce dans le cadre de votre engagement à la FI ?,c,Jamais|Non concerné|Pas uniquement|Uniquement,5,3.7337662337662336
+campagnelfi,Avez-vous déjà participé à une campagne de la FI ?,c,Jamais|Pas tous les scrutins|Tous les scrutins,5,2.272727272727273
+campagne_reg,Participez-vous à la campagne...?  [pour les élections régionales (2021)],c,Non|Oui,5,6.818181818181818
+campagne_pres,Participez-vous à la campagne...?  [pour l'élection présidentielle (2022)],c,Non|Oui,5,7.142857142857143
+covid_resoc,"Pendant cette période de pandémie et en particulier pendant les confinements, comment avez-vous pu continuer à militer ? [Sur les réseaux sociaux]",c,Non|Oui,5,0
+covid_num,"Pendant cette période de pandémie et en particulier pendant les confinements, comment avez-vous pu continuer à militer ? [Grâce aux meetings numériques et réunions à distances]",c,Non|Oui,5,0
+covid_aide,"Pendant cette période de pandémie et en particulier pendant les confinements, comment avez-vous pu continuer à militer ? [En aidant les personnes fragiles à avoir accès sans risques aux produits essentiels]",c,Non|Oui,5,0
+covid_coll,"Pendant cette période de pandémie et en particulier pendant les confinements, comment avez-vous pu continuer à militer ? [À travers la collecte de denrées et d'affaires dans les quartiers populaires]",c,Non|Oui,5,0
+covid_manif,"Pendant cette période de pandémie et en particulier pendant les confinements, comment avez-vous pu continuer à militer ? [En allant aux manifestations]",c,Non|Oui,5,0
+covid_autre,"Pendant cette période de pandémie et en particulier pendant les confinements, comment avez-vous pu continuer à militer ? [Autre]",c,,5,88.7987012987013
+elulfi,Avez-vous eu un mandat électif politique depuis votre engagement à la FI ?,c,Non|Oui,5,4.87012987012987
+connaitelu,Connaissez-vous personnellement un-e ou des élu-e-s ?,c,Non|Oui,5,1.6233766233766234
+convaincre,Estimez-vous pouvoir influer sur ses/leurs décisions politiques ? ,c,Non|Oui,5,11.363636363636363
+comite,"Participez-vous ou avez-vous participé à un comité de la FI (respect des principes, électoral, contre les violences sexistes et sexuelles ou d’amélioration du fonctionnement du mouvement) ?",c,Non|Oui,5,5.032467532467533
+espace_pgrm,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Espace du programme],c,Non|Oui,5,0
+espace_parlm,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Groupe parlementaire],c,Non|Oui,5,0
+espace_ue,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Délégation au parlement européen],c,Non|Oui,5,0
+espace_pol,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Espace politique],c,Non|Oui,5,0
+espace_op,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Espace opérationnel],c,Non|Oui,5,0
+espace_elus,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Espace des élu-e-s et contre-pouvoirs],c,Non|Oui,5,0
+espace_autoorga,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Espace de l’auto-organisation et de la désobéissance populaire],c,Non|Oui,5,0
+espace_elec,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Espace élections],c,Non|Oui,5,0
+pas_espace,Participez-vous ou avez-vous participé à un ou plusieurs des espaces suivants ?  [ Aucun de ces espaces],c,Non|Oui,5,0
+actmili_actprincipale,Quelle est l’activité militante...  [ À laquelle vous consacrez le plus de votre temps],c,Association|Groupe insoumis|Non concerné|Parti|Syndicat,5,8.441558441558442
+actmili_plusrespons,Quelle est l’activité militante...  [ Dans laquelle vous exercez le plus de responsabilités],c,Association|Groupe insoumis|Non concerné|Parti|Syndicat,5,19.805194805194805
+actmili_plusutile,Quelle est l’activité militante...  [ Qui vous semble la plus utile],c,Association|Groupe insoumis|Non concerné|Parti|Syndicat,5,14.123376623376624
+actmili_plussatis,Quelle est l’activité militante...  [ Qui vous apporte le plus de satisfactions],c,Association|Groupe insoumis|Non concerné|Parti|Syndicat,5,17.694805194805195
+difficultpro,Votre militantisme a-t-il entrainé des difficultés dans votre vie professionnelle ?,c,Non|Oui,5,4.383116883116883
+difficultpro_placard,Quel type de difficultés ?  [ Ralentissements de carrière],c,Non|Non concerné|Oui,5,4.383116883116883
+difficultpro_isole,Quel type de difficultés ?  [ Isolement],c,Non|Non concerné|Oui,5,4.383116883116883
+difficultpro_harcele,Quel type de difficultés ?  [ Harcèlement],c,Non|Non concerné|Oui,5,4.383116883116883
+difficultpro_licenciement,Quel type de difficultés ?  [ Licenciement],c,Non|Non concerné|Oui,5,4.383116883116883
+difficultpro_pastrouve,Quel type de difficultés ?  [ Difficulté ou impossibilité à (re)trouver un travail],c,Non|Non concerné|Oui,5,4.383116883116883
+difficultpro_autre,Quel type de difficultés ?  [Autre],c,"chasse aux sorcières|client qui se rétracte|conflits|Difficulté à cumuler calendrier politique et  rythme de travail en études|Discriminations|divorce|Emploi du temps difficile à tenir|fatigue|Fatigue et moindre performance/productivité|fatigue, moindre investissement dans mon boulot|Gérer temps de travail et investissement mitant|Interruption de stage. Lutte individuelle pour le respect de mes droits de stagiaires. Pratiques illégales quasi systématiques dans le milieu de la restauration.|J’ai du mal à gérer mon temps d’etude et mon temps pour militer.|Ma cie de théâtre a été mise au ban de la communauté de communes et privée des services que l'office de tourisme offre aux autres associations, mon mari a été attaqué verbalement par le baron local, notre présidente a démissionné parce qu'elle n'osait plus faire la bise au baron local (suite à une chanson contre le Center Parcs)|moins de disponibilité pour m'engager dans des projets de recherche|Non concerné|Pas prise en Master à Troyes après ma licence professionnelle|Priorisation des études forcément différent|Problèmes de gestion du temps en période de campagne et mon travail en pâtit.|Rappirt conflictuel avec hierarchie|Remarques désobligeantes et présentation critique de ma personne aux nouveaux venus|Réorganisation et nouvelle affectation sans responsabilité d encadrement|Retard pris au travail lors de campagnes politiques intenses|rupture avec le monde du travail pour suivre mon idéologie anticapitaliste|temps consacré|tensions employeurs|Trop d'investissement politique, plus assez de travail personnel pour les études|vie de famille",5,22.88961038961039
+difficultfam,Votre militantisme a-t-il entrainé des difficultés dans votre vie familiale ?,c,Non|Oui,5,3.409090909090909
+don,Avez-vous déjà fait un don à la FI ?,c,Non|Oui,5,3.409090909090909
+relig,Diriez-vous que vous êtes… ,c,Croyant-e et non-pratiquant-e d’une religion|Croyant-e et pratiquant-e d’une religion|Non croyant-e,6,3.1404958677685952
+opinionresp,Pensez-vous que toutes les opinions politiques sont acceptables dans l'espace public ?,c,Non|Oui,6,8.59504132231405
+ldc,"En voyant ce qui se passe autour de vous, avez-vous l’impression que nous vivons dans une société caractérisée par une lutte des classes ?",c,Pas du tout|Plutôt non|Plutôt oui|Tout à fait,6,1.1570247933884297
+impquestion_lfi_serv,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Instauration d'un service citoyen obligatoire de 9 mois],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,7.768595041322314
+impquestion_lfi_bac,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Démantèlement des BAC (Brigades anti-criminalité)],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,8.264462809917354
+impquestion_lfi_cannab,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Légalisation de la consommation de cannabis],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,6.446280991735537
+impquestion_lfi_vert,"Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Constitutionnaliser la règle verte, selon laquelle on ne prélève pas davantage à la nature que ce qu’elle est en état de reconstituer ]",c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,0.49586776859504134
+impquestion_lfi_spap,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Régulariser les travailleurs sans-papiers],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,2.479338842975207
+impquestion_lfi_nuc,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Sortir du nucléaire],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,3.8016528925619837
+impquestion_npa_islam,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Abrogation des lois islamophobes institutionnalisant les inégalités],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,7.768595041322314
+impquestion_npa_licenci,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Interdiction des licenciements et des suppressions de postes],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,6.2809917355371905
+impquestion_npa_spap,"Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Régularisation de tous les sans-papiers, sans distinction]",c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,8.099173553719009
+impquestion_npa_log,Êtes-vous d'accord avec les mesures programmatiques suivantes ?  [Réquisition des logements et immeubles de bureaux inoccupés],c,D'accord|Pas d'accord|Pas du tout d'accord|Tout à fait d'accord,6,1.1570247933884297
+autoorga,Il est souvent fait mention de l’auto-organisation à la FI. Qu’est-ce que cela signifie concrètement pour vous ?,c,,6,25.123966942148762
+remarque_mili,Avez-vous des remarques que vous jugez utiles sur votre militantisme et qui n'auraient pas été abordées durant ce questionnaire ?,c,,7,64.15410385259632
+remarque_questio,"Avez-vous des questions, remarques sur le questionnaire et sur l'enquête ?",c,,7,65.9966499162479
+retraite,Quelle est votre catégorie socio-professionnelle ? (Retraité),c,Non|Oui,1,0
+pcs_sr,Quelle est votre catégorie socio-professionnelle ? (avant retraite),c,"Agriculteurs exploitants|Artisans, commerçants, chefs d'entreprise|Autre inactifs|Autres professions intermédiaires|Cadres|Chômeurs|Élèves ou étudiants|Employés|Ouvriers|Professeurs des écoles, instituteurs et assimilé|Professeurs, professions scientifiques|Professions libérales",1,1.793103448275862
+pcs,Quelle est votre catégorie socio-professionnelle ?,c,"Agriculteur-rice|Artisan, commerçant-e, chef d’entreprise|Employé-e|Profession libérale|Cadre|Professeur-e, profession scientifique|Professeur-e des écoles, instituteur-rice et assimilé|Autres professions intermédiaires|Ouvrier-ère|Étudiant-e|Chômeur-euse|Autre inactif-ve",1,0.13793103448275862
+age,2021 - naiss,d,,1,0
+sujetpol_evnmt_rec,Recodage évènement marquant,c,,4,97.39263803680981
+parti_trotsmao,quelparti = Extrême gauche,c,Non|Non concerné|Oui,4,1.687116564417178
+parti_gaucherad,quelparti = autre gauche radicale,c,Non|Non concerné|Oui,4,1.687116564417178
+parti_pcf,quelparti = PCF,c,Non|Non concerné|Oui,4,1.687116564417178
+parti_gauche,quelparti = gauche traditionnelle,c,Non|Non concerné|Oui,4,1.687116564417178
+parti_autre,quelparti = autre,c,Non|Non concerné|Oui,4,1.687116564417178
+synd_cgt,quelsynd = CGT,c,Non|Non concerné|Oui,4,1.687116564417178
+synd_cfdt,quelsynd = CFDT,c,Non|Non concerné|Oui,4,1.687116564417178
+synd_fo,quelsynd = FO,c,Non|Non concerné|Oui,4,1.687116564417178
+synd_fsu,quelsynd = FSU,c,Non|Non concerné|Oui,4,1.687116564417178
+synd_jeunes,quelsynd = lycéen ou étudiant,c,Non|Non concerné|Oui,4,1.687116564417178
+synd_autre,quelsynd = autre,c,Non|Non concerné|Oui,4,1.687116564417178
+responssynd_rec,Responsabilité synd (recodage),c,Jamais syndiqué|Pas de responsabilité syndicale|Responsabilité syndicale locale|Responsabilité syndicale nationale|Responsabilités syndicales établissement,4,0
+responsparti_rec,Responsabilité parti (recodage),c,Jamais encarté|Pas de responsabilité partisane|Responsabilité partisane locale|Responsabilité partisane nationale,4,0
+agecat,Catégorie d'âge,c,16-25 ans|25-35 ans|35-45 ans|45-55 ans|55-63 ans|63-70 ans|70-87 ans,1,0
+agecat_rec,Catégorie d'âge (quartile),f,,1,0
+dipl_rec,Diplôme (recodage),c,Baccalauréat ou moins|Études supérieures courtes|Études supérieures longues,1,0.13793103448275862
+classes_soc_par,Classe sociale des parents,c,CS moyenne inférieure|CS moyenne supérieure|CS populaires,1,16.689655172413794
+classes_soc,Classe sociale,c,CS moyenne inférieure|CS moyenne supérieure|CS populaires,1,3.1724137931034484
+dipl_par,Diplôme des parents,c,Baccalauréat|BEP/CAP ou équivalent|Études supérieures courtes|Études supérieures longues|Sans diplôme,1,3.8620689655172415
+parti_par,Parents dans un parti,c,Non|Oui,2,6.515580736543909
+synd_par,Parents dans un syndicat,c,Non|Oui,2,6.657223796033994
+engage_par,Parents engagés dans un parti ou syndicat,c,Non|Oui,2,6.515580736543909
+engage,Engagé dans un parti ou syndicat,c,Non|Oui,3,2.6785714285714284
+engagelfi_jlm2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La personnalité de Jean-Luc Mélenchon] (recodage),c,Important|Pas important,4,6.901840490797546
+engagelfi_gauche2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté d’être engagé vraiment à gauche] (recodage),c,Important|Pas important,4,7.822085889570552
+engagelfi_election2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté de voir la gauche gagner les élections] (recodage),c,Important|Pas important,4,8.282208588957054
+engagelfi_droits2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté de lutter pour vos droits] (recodage),c,Important|Pas important,4,8.128834355828221
+engagelfi_carriere2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La volonté de pouvoir vivre de votre engagement politique] (recodage),c,Important|Pas important,4,11.196319018404909
+engagelfi_rencontre2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La poursuite de la tradition politique de votre famille] (recodage),c,Important|Pas important,4,8.742331288343559
+engagelfi_souple2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ La rencontre de personnes ayant des points communs avec vous] (recodage),c,Important|Pas important,4,9.50920245398773
+engagelfi_prox2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [ Le fait que l’organisation soit plus souple qu’un parti] (recodage),c,Important|Pas important,4,11.349693251533742
+engagelfi_fam2,Ces différentes raisons de vous engager auprès de la France Insoumise ont-elles joué un rôle...?  [La proximité du groupe insoumis de mon lieu de vie] (recodage),c,Important|Pas important,4,14.110429447852761
+freqreu_rec,Réunion groupe (recodage),c,Moins d'une fois par mois|Pas dans un groupe|Une fois par mois|Une fois par semaine ou plus|Une fois toutes les deux semaines,5,6.6558441558441555
+freqparticipereu_rec,Réunions égo (recodage),c,À peu voire aucune réunion|À presque toutes les réunions|À toutes les réunions|Pas dans un groupe,5,3.2467532467532467
